@@ -1,3 +1,2 @@
 # Movie-Recommendation-System-With-Deployment
-<br>
-<src img='Photo.png' width=400 height=400>
+<img src = 'Photo.png' width=800, hight=800><br>
